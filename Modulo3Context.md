@@ -1,5 +1,5 @@
 # Objetivos:
-	*Identificar la diferencia entre las regiones de AWS, las zonas de disponibilidad y ubicaciones perimetrales.
+	* Identificar la diferencia entre las regiones de AWS, las zonas de disponibilidad y ubicaciones perimetrales.
 	
 	* Identificar servicios y categorías de servicios de AWS.
 #	
