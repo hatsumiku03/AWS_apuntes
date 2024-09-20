@@ -2,7 +2,7 @@
 	*Identificar la diferencia entre las regiones de AWS, las zonas de disponibilidad y ubicaciones perimetrales.
 	
 	* Identificar servicios y categorías de servicios de AWS.
-	
+#	
 1. AWS tiene propósito de ofrecer almacenamiento en la nube
 2. AWS ofrece un huevo de redundancia a nivel de red a la hora de hablar de la escalabilidad 
 	(Utiliza todos sus servidores ubicados en una zona geográfica para poder aumentar la escalabilidad si un servidor no puede ofrecerla)
