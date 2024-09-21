@@ -29,4 +29,4 @@
   * Red Troncal: Red de redes, es un tipo de red que interconecta otras redes entre si.
     (A nivel de AWS, la conexión con los servidores es de red troncal)
 
-  * Puntos de presencia: 
+  * Puntos de presencia: Son zonas con toda una infraestructura de red que se encargan de comunicar redes ya existentes entre si.
