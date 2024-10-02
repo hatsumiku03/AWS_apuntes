@@ -19,8 +19,10 @@
         Son servicios que se ofrecen a través de la nube, veáse el espacio de las cuentas de google con google docs y demás, amazon
         también puede ofrecer sus propias cosas para bases de datos y demás, eso son los SaaS.
 
+
 # Extras:
-  * 
+  * Identity and Access Managment (IAM):
+        Este es un servicio de AWS, sirve para administrar que usuarios tienen accesso a tus recursos de AWS.
 
 # Conceptos básicos
   * 
