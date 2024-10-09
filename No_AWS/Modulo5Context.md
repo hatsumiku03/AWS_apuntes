@@ -7,12 +7,11 @@
     * Amazon CloudFront
     
 # Conceptos de los temas
-    1. 
+    1. Amazon VPC: Básicamente lo vas a utilizar como un sistema de gestión de redes en la nube para poder controlar las propias subredes y el tráfico de estas.
 
 
 # Extras:
-  * Identity and Access Managment (IAM):
-        Este es un servicio de AWS, sirve para administrar que usuarios tienen accesso a tus recursos de AWS.
+  * IP elástica: Es una IP global que utilizas en AWS para múltiples cosas, para evitar conflictos y esas cosas mientras trabajas en la nube.
 
 # Conceptos básicos
   * VPC: Virtual Private Cloud
