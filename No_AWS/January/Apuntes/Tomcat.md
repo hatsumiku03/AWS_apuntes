@@ -9,7 +9,7 @@ Este punto solo es que un servidor ha de ser capaz de procesar
 aplicaciones que pidan y reciban peticiones de un cliente a un servidor.
 
 * Protocolo HTTP:
-Sin necesidad de otros protocolos más a ya del HTTP, la página logrará ser dínamica
+Sin necesidad de otros protocolos más a ya del HTTP, la página logrará ser dinámica
 a través de herramientas de tu framework/herramienta y las peticiones.
 
 * Aplicaciones dinámicas:
